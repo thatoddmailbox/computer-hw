@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KR537RU2
+D 4096x1 SRAM. Clone of Western HM6504.
+$ENDCMP
+#
+$CMP KR580VV51A
+D UART/USART. Clone of Western Intel 8251A. Datasheet: http://pdf.datasheetcatalog.com/datasheet/Intel/mXtyswx.pdf
+$ENDCMP
+#
+#End Doc Library
